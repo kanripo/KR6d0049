@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:48:37.700069
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:08
 #+TITLE: 觀音義疏記
 #+PROPERTY: CBETA_ID T34n1729
 #+PROPERTY: ID KR6d0049
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 34, No. 1729
 #+PROPERTY: VOL 34
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0049_T_000-0936a>¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6d0049_T_001-0936a> ¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.1729[cf.Nos.262(25),1728]¶
-
- 觀音義疏記卷第一¶
+No. 1729 [cf. Nos. 262(25), 1728]¶
+觀音義疏記卷第一¶
 ¶
 宋四明沙門知禮述¶
 
@@ -452,7 +451,7 @@ No.1729[cf.Nos.262(25),1728]¶
 故言放捨。二若能下機應。三煩惱二。初明機
 <pb:KR6d0049_T_001-0940c>¶
 二。初論惑水二。初通明諸有水。菩薩香象足¶
-雖到底。若未達岸寧免被漂。緣覺觀集而為¶
+雖到底。若未達岸寧免被飄。緣覺觀集而為¶
 初門。故云愛水增長諸有。二二乘下別示四¶
 教機二。初示聲聞。二次支下例諸位。支佛修¶
 行不立分果。深觀緣起久種三多。福慧既隆¶

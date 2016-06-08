@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:48:37.791742
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:08
 #+TITLE: 觀音義疏記
 #+PROPERTY: CBETA_ID T34n1729
 #+PROPERTY: ID KR6d0049
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 34, No. 1729
 #+PROPERTY: VOL 34
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0049_T_000-0936a>¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6d0049_T_004-0952b> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 觀音義疏記卷第四¶
+觀音義疏記卷第四¶
 ¶
 宋四明沙門知禮述¶
 
@@ -176,7 +175,7 @@
 初梵王二。初釋名相。二觀音下明本觀。此¶
 天依正多是白色。觀音因時觀於白色。即空¶
 假中住白法界。即是此有真常我性。名王三¶
-昧。不取不捨者。不取此禪有相。謂見思也。不¶
+味。不取不捨者。不取此禪有相。謂見思也。不¶
 取此禪空相。塵沙也。不取此禪亦有亦無相¶
 非有非無相。無明也。則不隨三惑生於此禪
 <pb:KR6d0049_T_004-0954b>¶
@@ -576,11 +575,7 @@
 <pb:KR6d0049_T_004-0958c>¶
 ¶
 
-釋重頌
-:PROPERTIES:
-:head: 釋重頌
-:END:
-¶
+* 釋重頌¶
 ¶
 宋天竺寺沙門遵式述¶
 

@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:48:37.726644
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:08
 #+TITLE: 觀音義疏記
 #+PROPERTY: CBETA_ID T34n1729
 #+PROPERTY: ID KR6d0049
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 34, No. 1729
 #+PROPERTY: VOL 34
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0049_T_000-0936a>¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6d0049_T_002-0941a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
-
- 觀音義疏記卷第二¶
+觀音義疏記卷第二¶
 ¶
 宋四明沙門知禮述¶
 
