@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:48:38.111086
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:08
 #+TITLE: 觀音義疏記
 #+PROPERTY: CBETA_ID T34n1729
 #+PROPERTY: ID KR6d0049
@@ -575,7 +575,7 @@
 <pb:KR6d0049_T_004-0958c>¶
 ¶
 
-釋重頌¶
+* 釋重頌¶
 ¶
 宋天竺寺沙門遵式述¶
 
